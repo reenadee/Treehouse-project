@@ -26,9 +26,11 @@ h3 {
   margin: 0 0 1em 0;
 }
 
+
 /*********
 Heading
 **********/
+
 
 header {
   float: left;
@@ -58,8 +60,9 @@ h2 {
 
 
 /*********
-navigation 
+Navigation 
 **********/
+
 
 nav {
   text-align: center;
@@ -82,8 +85,9 @@ nav a {
   padding: 15px 10px;
 }
 
+
 /*********
-footer 
+Footer 
 **********/
 
 
@@ -95,7 +99,6 @@ footer {
   color: #ccc;
 }
 
-
 .social-icon {
   width: 20px;
   height: 20px;
@@ -104,9 +107,8 @@ footer {
 
 
 /*********
-Page portfolio
+Page: Portfolio
 **********/
-
 
 
 #gallery {
@@ -134,6 +136,7 @@ Page portfolio
 /*********
 Page: About
 **********/
+
 
 .profile-photo {
   clear: both;
